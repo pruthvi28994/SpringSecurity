@@ -1,0 +1,8 @@
+com\pruthvi\SpringSecurityDemoApplication.class
+com\pruthvi\service\UserInfoDetailsService.class
+com\pruthvi\entity\UserInfo.class
+com\pruthvi\service\SecurityControllerService.class
+com\pruthvi\controller\SecurityController.class
+com\pruthvi\entity\UserInfoUserDetails.class
+com\pruthvi\repository\UserDetailsEntityRepo.class
+com\pruthvi\security\SecurityConfig.class
